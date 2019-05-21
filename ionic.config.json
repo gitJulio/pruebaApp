@@ -1,0 +1,7 @@
+{
+  "name": "appRuteros",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
